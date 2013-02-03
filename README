@@ -3,7 +3,7 @@ Contributors: Jesse
 Donate link: http://www.wordpressplugindeveloper.com/
 Tags: autoblogging, zip, content, posts, post
 Requires at least: 2.8.6
-Tested up to: 3.2.1
+Tested up to: 3.5.1
 Stable tag: trunk
 
 Upload zipped .txt files and insert them as wordpress posts
@@ -34,9 +34,10 @@ If you need a customized version, please <a href="http://www.wordpressplugindeve
 = none =
 
 == Upgrade Notice ==
-= 2.0 =
-2.0 version is lite version yet more reliable than original one. Don't upgrade it if you are satisfied with current version.
+= 3.0 =
+Code rewritten
+
 
 == Changelog ==
-= 2.0 =
-lite version released.
+= 3.0 =
+Code rewritten

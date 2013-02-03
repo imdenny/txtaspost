@@ -1,6 +1,6 @@
 # TXT As Post
 
-Import zipped txt files into wordpress. 
+Import zipped txt files into wordpress.
 
 ### Instruction
 
@@ -11,6 +11,4 @@ Import zipped txt files into wordpress.
 * Done.
 
 ### Important Note
-txtaspost.php is normal version.
-txtaspost-post-tags-version.php is post tags version.
-Only can one version activated.
+Make sure your txt is saved as UTF-8 to support non-English language.
