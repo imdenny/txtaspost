@@ -19,5 +19,5 @@ if(isset($_GET['success'])){?>
 <p><input type="submit" class="button-primary" value="Upload" /></p>
 <?php $this->print_error();?>
 </form>
-<p class="howto">This plugin is created by <a href="http://www.wordpressplugindeveloper.com/">WordpressPluginDeveloper.com</a></p>
+<p class="howto">This plugin is created by <a href="http://www.wpactions.com/">wpactions.com</a></p>
 </div>
