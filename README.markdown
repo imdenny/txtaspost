@@ -12,3 +12,5 @@ Import zipped txt files into wordpress.
 
 ### Important Note
 Make sure your txt is saved as UTF-8 to support non-English language.
+
+Created by [wpactions.com](http://www.wpactions.com)
