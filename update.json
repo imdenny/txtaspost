@@ -1,0 +1,26 @@
+{
+    "name" : "Instant List Machine",
+    "slug" : "instant-list-machine",
+    "homepage" : "http://www.plugin site.com",
+    "download_url" : "http://latest plugin download url",
+
+    "version" : "1.4",
+    "requires" : "3.3.1",
+    "tested" : "3.8",
+    "last_updated" : "2013-12-28 15:15:00",
+    "upgrade_notice" : "none",
+
+    "author" : "Dennis Duncan",
+    "author_homepage" : "http://www.internetmarketingscout.com",
+
+    "sections" : {
+        "description" : "Customizable page flies in from top, bottom, left or right after scrolling down",
+        "installation" : "like others",
+        "changelog" : "<p>none</p>",
+        "custom_section" : ""
+    },
+
+    "rating" : 100,
+    "num_ratings" : 123,
+    "downloaded" : 1234
+}
