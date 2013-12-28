@@ -1,8 +1,8 @@
 {
     "name" : "Instant List Machine",
     "slug" : "instant-list-machine",
-    "homepage" : "http://www.github.com",
-    "download_url" : "https://github.com/wppd/txtaspost/archive/master.zip",
+    "homepage" : "http://www.test.com",
+    "download_url" : "http://www.test.com/haha.zip",
 
     "version" : "1.4",
     "requires" : "3.3.1",
